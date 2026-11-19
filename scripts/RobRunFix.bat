@@ -238,7 +238,7 @@ goto MENU
 :GUIDE
 echo.
 echo  [*] Opening GitHub documentation in browser...
-start "" "https://github.com/YOUR_USERNAME/rob-run-server-fix"
+start "" "https://github.com/mladytomato/rob-run-server-fix"
 timeout /t 2 >nul
 goto MENU
 
